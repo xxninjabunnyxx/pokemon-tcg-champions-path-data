@@ -1,0 +1,94 @@
+---
+id: swsh35-34
+name: Arbok
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '120'
+types:
+- Darkness
+evolvesFrom: Ekans
+attacks:
+- name: Sharp Fang
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '30'
+  text: ''
+- name: Tail Snap
+  cost:
+  - Darkness
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '70'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh35
+  name: Champion's Path
+  series: Sword & Shield
+  printedTotal: 73
+  total: 80
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: CPA
+  releaseDate: 2020/09/25
+  updatedAt: 2020/10/25 13:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh35/symbol.png
+    logo: https://images.pokemontcg.io/swsh35/logo.png
+number: '34'
+artist: nagimiso
+rarity: Uncommon
+flavorText: After stunning its opponents with the pattern on its stomach, it quickly
+  wraps them up in its body and waits for them to stop moving.
+nationalPokedexNumbers:
+- 24
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh35/34.png
+  large: https://images.pokemontcg.io/swsh35/34_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh35-34
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.02
+      mid: 0.25
+      high: 3.0
+      market: 0.24
+      directLow: 0.13
+    normal:
+      low: 0.02
+      mid: 0.15
+      high: 60.0
+      market: 0.08
+      directLow: 0.08
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh35-34
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.06
+    lowPrice: 0.02
+    trendPrice: 0.09
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.3
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.29
+    lowPriceExPlus: 0.02
+    avg1: 0.2
+    avg7: 0.11
+    avg30: 0.08
+    reverseHoloAvg1: 0.32
+    reverseHoloAvg7: 0.33
+    reverseHoloAvg30: 0.3

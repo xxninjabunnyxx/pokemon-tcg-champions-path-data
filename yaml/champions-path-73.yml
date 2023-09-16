@@ -1,0 +1,63 @@
+---
+id: swsh35-73
+name: Hop
+supertype: Trainer
+subtypes:
+- Supporter
+rules:
+- Draw 3 cards.
+- You may play only 1 Supporter card during your turn.
+set:
+  id: swsh35
+  name: Champion's Path
+  series: Sword & Shield
+  printedTotal: 73
+  total: 80
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: CPA
+  releaseDate: 2020/09/25
+  updatedAt: 2020/10/25 13:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh35/symbol.png
+    logo: https://images.pokemontcg.io/swsh35/logo.png
+number: '73'
+artist: Naoki Saito
+rarity: Rare Ultra
+legalities:
+  unlimited: Legal
+  expanded: Legal
+regulationMark: D
+images:
+  small: https://images.pokemontcg.io/swsh35/73.png
+  large: https://images.pokemontcg.io/swsh35/73_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh35-73
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.85
+      mid: 1.9
+      high: 20.0
+      market: 1.24
+      directLow: 1.3
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh35-73
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 1.83
+    lowPrice: 0.5
+    trendPrice: 1.85
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 2.98
+    lowPriceExPlus: 1.0
+    avg1: 1.2
+    avg7: 1.86
+    avg30: 1.78
+    reverseHoloAvg1: 4.0
+    reverseHoloAvg7: 3.15
+    reverseHoloAvg30: 3.26
